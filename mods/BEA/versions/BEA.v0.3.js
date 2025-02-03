@@ -1,3 +1,5 @@
+
+// Made by BendieGames on yt
 (function EFB2Mod() {
 
         function EFB2__defineExecCmdAsGlobal() {
